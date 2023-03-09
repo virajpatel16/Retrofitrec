@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="250dp">
+
+<TextView
+    android:id="@+id/userid"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="1"/>
+
+<TextView
+    android:id="@+id/identify"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="1"/>
+
+<TextView
+    android:id="@+id/title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="sunt aut facere repellat provident occaecati excepturi optio reprehenderit"/>
+
+<TextView
+    android:id="@+id/body"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text= "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"/>
+
+
+
+
+
+</androidx.cardview.widget.CardView>
